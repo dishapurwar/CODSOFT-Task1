@@ -1,7 +1,11 @@
 **Company** : CODTECH IT SOLUTIONS
+
 **ID** : CT6WDS451
+
 **Domain** : Full Stack
+
 **Duration** : June to July 2024
+
 **Mentor** : NEELA SANTHOSH KUMAR
 
 ## Overview of the Project
@@ -21,13 +25,13 @@ The chat application is a comprehensive real-time messaging platform developed w
 
 # Technologies Used 
 
-1.**React** : Component-based architecture for building the user interface.
-2.**Tailwind CSS** : Utility-first CSS framework for styling the application.
-3.**Zustand** : State management for handling global state across components.
-4.**Node.js** : JavaScript runtime for server-side logic.
-5.**Express.js** : Web framework for building the API.
-6.**MongoDB** : NoSQL database for storing users, conversations, and messages.
-7.**Socket.io** : WebSocket library for real-time communication.
+1. **React** : Component-based architecture for building the user interface.
+2. **Tailwind CSS** : Utility-first CSS framework for styling the application.
+3. **Zustand** : State management for handling global state across components.
+4. **Node.js** : JavaScript runtime for server-side logic.
+5. **Express.js** : Web framework for building the API.
+6. **MongoDB** : NoSQL database for storing users, conversations, and messages.
+7. **Socket.io** : WebSocket library for real-time communication.
 
 
 ![Screenshot 2024-07-20 235729](https://github.com/user-attachments/assets/73c0ace1-8e92-4de0-9d37-d75592da12b5)
